@@ -24,7 +24,7 @@ Swiss-Knife v2 is an advanced, all-in-one information gathering toolkit built in
 ## 📦 Installation
 
 ```bash
-git clone https://github.com/mehmeterenalpan/swiss-knife-v2.git
+git clone https://github.com/mehmeterenalpan/swiss-knife-v2/swiss-knife-v2.git
 cd swiss-knife-v2
 pip install -r requirements.txt
 ```
